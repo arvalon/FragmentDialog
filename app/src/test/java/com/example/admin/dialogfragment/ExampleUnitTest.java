@@ -1,4 +1,4 @@
-package com.example.admin.fragmentdialog;
+package com.example.admin.dialogfragment;
 
 import org.junit.Test;
 

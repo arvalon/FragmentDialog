@@ -1,4 +1,4 @@
-package com.example.admin.fragmentdialog;
+package com.example.admin.dialogfragment;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
