@@ -14,9 +14,6 @@ import androidx.fragment.app.DialogFragment;
 
 import static com.example.admin.dialogfragment.MainActivity.LOG;
 
-/**
- * Created by Admin on 02.06.2016.
- */
 public class MyDialog extends DialogFragment {
 
     public MyDialog() {
